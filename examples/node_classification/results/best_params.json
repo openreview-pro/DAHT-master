@@ -1,0 +1,7 @@
+{
+    "lr": 0.01,
+    "weight_decay": 1e-05,
+    "num_heads": 2,
+    "drop_rate": 0.1,
+    "hidden_dim": 512
+}
